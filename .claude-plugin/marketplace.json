@@ -1,0 +1,8 @@
+{
+  "name": "claude-desktop-mods",
+  "owner": { "name": "engmohesham" },
+  "plugins": [
+    { "name": "session-search", "source": "./session-search", "description": "Pane to search sessions by project or folder, grouped Working / Idle" },
+    { "name": "null", "source": "./null", "description": "Pixel-art companion above the prompt: live activity, task progress, session summary, /handoff" }
+  ]
+}

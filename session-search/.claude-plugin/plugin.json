@@ -1,0 +1,1 @@
+{ "name": "session-search", "version": "0.1.0", "description": "Pane to search sessions by project or folder name", "types": "./types/index.d.ts" }
